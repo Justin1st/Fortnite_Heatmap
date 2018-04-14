@@ -4,7 +4,7 @@ A class project to predict the winner in epic's game Fortnite
 
 ## Authors
 
-* **Shivani Kohli* 
+* **Shivani Kohli** 
 * **Justin Furst**
 
 ## License
