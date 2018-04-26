@@ -6,7 +6,7 @@ A class project to predict the winner in epic's game Fortnite
 
 * **Shivani Kohli** 
 * **Justin Furst**
-* **Joe **
+* **Joe**
 
 ## License
 
